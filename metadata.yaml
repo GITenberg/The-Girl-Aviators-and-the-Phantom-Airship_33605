@@ -1,0 +1,27 @@
+_repo: The-Girl-Aviators-and-the-Phantom-Airship_33605
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burnham, Margaret
+    gutenberg_agent_id: '2051'
+    url: http://www.gutenberg.org/2009/agents/2051
+description: ''
+gutenberg_issued: '2010-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women air pilots -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Airplanes -- Juvenile fiction'
+title: The Girl Aviators and the Phantom Airship
+url: http://www.gutenberg.org/ebooks/33605
